@@ -1,0 +1,76 @@
+ #btnHelp{
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    width: 40px;
+    height: 40px;
+    z-index: 999;
+    border-radius: 50%;
+    border: 2px solid white;
+   background-color:rgb(10, 102, 194);
+   animation-name: stretch ;
+   animation-duration: 5s;
+   animation-timing-function: linear;
+   animation-direction:alternate ;
+   animation-iteration-count: infinite;
+   animation-play-state: running;
+}
+
+#btnHelp:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    background-color: rgb(32, 136, 241);
+    animation-name: none;
+   
+}
+
+@keyframes stretch  {
+    0%{
+        background-color: rgb(10, 102, 194);
+        transform: scale(1);
+    }
+    90%{
+        background-color: rgb(10, 102, 194);
+        transform: scale(1);
+    }
+    100%{
+        background-color: rgb(23, 139, 255);
+        transform: scale(1.2);
+    }
+}
+
+#btnHelp[listening]{
+    animation-name: fast-stretch;
+    animation-duration: 0.2s;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+
+@keyframes fast-stretch  {
+    0%{
+        background-color: rgb(181, 27, 27);
+        transform: scale(1);
+    }
+   
+    100%{
+        background-color: rgb(254, 29, 29);
+        transform: scale(1.2);
+    }
+}
+ 
+
+
+
+
+
+
+
+ /* Linkedin  */
+
+ #imgSaved{
+    height: 28px;
+    
+ }
+ 
