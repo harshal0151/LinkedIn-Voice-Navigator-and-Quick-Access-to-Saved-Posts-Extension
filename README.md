@@ -1,24 +1,26 @@
 
-Title: Voice-Activated LinkedIn Navigator & Quick Save posts Access Extension.
 
-Description:
-Our Chrome extension revolutionizes LinkedIn browsing by introducing voice commands for navigation and a convenient one-click access button for saved posts. With seamless integration into your LinkedIn experience, you can effortlessly browse, save, and access content without lifting a finger.
+<h1><strong>Title:</strong> Voice-Activated LinkedIn Navigator & Quick Save Access Extension</h1>
 
-Features:
 
-Voice Navigation: Navigate through LinkedIn using simple voice commands, enhancing accessibility and hands-free browsing.
+<br>
+<h2><strong>Description</strong>:</h2>
+<p>Our Chrome extension revolutionizes LinkedIn browsing by introducing <strong>voice commands</strong> for navigation and a convenient <strong>one-click access button</strong> for saved posts. With seamless integration into your LinkedIn experience, you can effortlessly browse, save, and access content without lifting a finger.</p>
 
-Save Post Shortcut: Instantly save interesting posts with a single click, ensuring you never miss out on valuable content.
+<h2><strong>Features</strong>:</h2>
+<ol>
+    <li><strong>Voice Navigation</strong>: Navigate through LinkedIn using simple voice commands, enhancing accessibility and hands-free browsing.</li>
+    <li><strong>Save Post Shortcut</strong>: Instantly save interesting posts with a single click, ensuring you never miss out on valuable content.</li>
+    <li><strong>Streamlined Interface</strong>: Intuitive design seamlessly integrates into the LinkedIn interface for a smooth user experience.</li>
+    <li><strong>Customizable Settings</strong>: Tailor the extension to your preferences with adjustable voice command recognition and button placement options.</li>
+    <li><strong>Privacy-Focused</strong>: Respects user privacy by only accessing necessary LinkedIn features and data.</li>
+</ol>
 
-Streamlined Interface: Intuitive design seamlessly integrates into the LinkedIn interface for a smooth user experience.
+<h2><strong>Installation</strong>:</h2>
+<ol>
+    <li>Install the extension from the Chrome Web Store.</li>
+    <li>Grant necessary permissions for voice recognition and LinkedIn integration.</li>
+    <li>Enjoy a more efficient and intuitive LinkedIn browsing experience with enhanced accessibility and productivity features.</li>
+</ol>
 
-Customizable Settings: Tailor the extension to your preferences with adjustable voice command recognition and button placement options.
-
-Privacy-Focused: Respects user privacy by only accessing necessary LinkedIn features and data.
-
-Installation:
-
-Install the extension from the Chrome Web Store.
-Grant necessary permissions for voice recognition and LinkedIn integration.
-Enjoy a more efficient and intuitive LinkedIn browsing experience with enhanced accessibility and productivity features.
-Get started today and revolutionize your LinkedIn browsing experience with our innovative extension!
+<p>Get started today and revolutionize your LinkedIn browsing experience with our innovative extension!</p>
