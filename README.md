@@ -28,15 +28,14 @@
 
 Chrome Extention :-
     
-   
+![Extention](./assets/Linkedin%20Extention.png);
+    
+ <br>
 
-![Extention](assets/Linkedin Extention.png)
-    
-    
 ![Add Save Post Icon](./assets/add%20save%20post%20btn.png)
+   <br>
 
+![Recording](./assets/Linkedin%20Page.png)
 
-![Recording](./public/screen/skill.png)
-
-
+ <br>
 
