@@ -24,3 +24,16 @@
 </ol>
 
 <p>Get started today and revolutionize your LinkedIn browsing experience with our innovative extension!</p>
+
+
+Chrome Extention :-
+    
+    Home Page
+![Homepage](./public/screen/home1.png)
+    About Page
+![Aboutpage](./public/screen/about.png)
+    Skill Page
+![Skillpage](./public/screen/skill.png)
+
+
+
