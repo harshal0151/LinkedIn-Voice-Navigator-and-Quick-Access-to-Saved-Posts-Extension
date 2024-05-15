@@ -28,12 +28,15 @@
 
 Chrome Extention :-
     
-    Home Page
-![Homepage](./public/screen/home1.png)
-    About Page
-![Aboutpage](./public/screen/about.png)
-    Skill Page
-![Skillpage](./public/screen/skill.png)
+   
+
+![Extention](assets/Linkedin Extention.png)
+    
+    
+![Add Save Post Icon](./assets/add%20save%20post%20btn.png)
+
+
+![Recording](./public/screen/skill.png)
 
 
 
