@@ -26,15 +26,19 @@
 <p>Get started today and revolutionize your LinkedIn browsing experience with our innovative extension!</p>
 
 
-Chrome Extention :-
-    
-![Extention](./assets/Linkedin%20Extention.png);
-    
- <br>
 
+
+<h2><strong>Chrome Extention</strong>:</h2>
+     <br>
+      <br>
+![Extention](./assets/Linkedin%20Extention.png);
+   <br>  
+ <br>
+<h2><strong> Quick Save Post</strong>:</h2>
 ![Add Save Post Icon](./assets/add%20save%20post%20btn.png)
    <br>
-
+    <br>
+<h2><strong>Voice Record Btn</strong>:</h2>
 ![Recording](./assets/Linkedin%20Page.png)
 
  <br>
