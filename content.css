@@ -17,7 +17,7 @@
 }
 
 #btnHelp:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
     cursor: pointer;
     background-color: rgb(32, 136, 241);
     animation-name: none;
@@ -68,6 +68,7 @@
 
 
  /* Linkedin  */
+
 
  #imgSaved{
     height: 28px;

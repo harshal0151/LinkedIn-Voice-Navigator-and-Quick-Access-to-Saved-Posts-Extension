@@ -41,18 +41,6 @@ aViewPosts.appendChild(spanViewPosts);
 liViewPosts.appendChild(aViewPosts);
 ulHeader.appendChild(liViewPosts);
 
-// shortcut keys- 
-
-// document.addEventListener("keypress", handleKbd);
-// function handleKbd(event) {
-//   console.log(event);
-//   if (event.shiftKey && event.altKey && event.code === "O") {
-//     aViewPosts.click();
-//   }
-// }
-
-
-
 
 //create a object voice recognition
 let speechRecognition = new webkitSpeechRecognition();
@@ -85,6 +73,10 @@ speechRecognition.onresult = (event) => {
     aHome.click();
   }else  if (transcript.trim().toLowerCase().includes("open profile")) {
     aProfile.click();
+  }else  if (transcript.trim().toLowerCase().includes("open edit info")) {
+    aEditInfo.click();
+  }else  if (transcript.trim().toLowerCase().includes("open contact info")) {
+    aContactInfo.click();
   }
 };
 
@@ -111,7 +103,7 @@ aMyNetwork.setAttribute(
 );
 
 
-// My Jobs P  ..............
+// My Jobs  ..............
 let aMyJob = document.createElement("a");
 
 aMyJob.setAttribute("target", "_blank");
@@ -169,6 +161,29 @@ aProfile.setAttribute(
   "href",
   "https://www.linkedin.com/in/harshal-patil-187a87245/"
 );
+
+// Edit info   ..............
+let aEditInfo = document.createElement("a");
+
+aEditInfo.setAttribute("target", "_blank");
+aEditInfo.setAttribute(
+  "href",
+ "https://www.linkedin.com/in/harshal-patil-187a87245/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION"
+);
+
+
+// contact info   ..............
+let aContactInfo = document.createElement("a");
+
+aContactInfo.setAttribute("target", "_blank");
+aContactInfo.setAttribute(
+  "href",
+ "https://www.linkedin.com/in/harshal-patil-187a87245/overlay/contact-info/"
+);
+
+
+
+
 
 
 
