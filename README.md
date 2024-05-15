@@ -23,7 +23,23 @@
     <li>Enjoy a more efficient and intuitive LinkedIn browsing experience with enhanced accessibility and productivity features.</li>
 </ol>
 
-<p>Get started today and revolutionize your LinkedIn browsing experience with our innovative extension!</p>
+
+<h2><strong>Voice Commands</strong>:</h2>
+<ol>
+    <li>Save Post :- "open save post"</li>
+    <li>Activity page :- "open activities"</li>
+    <li>My Networks page :- "open my networks" </li>
+    <li> Job Page :- "open jobs"</li>
+    <li>Messaging Page :- "open chats"</li>
+    <li>Notification Page :- "open notifications"</li>
+    <li>My Connections Page :- "open my connections"</li>
+    <li>Home Page :- "back to feed"</li>
+    <li>Profile page :- "open profile"</li>
+    <li>Edit Info page :- "open edit info"</li>
+    <li>Contact Info Page :- "open contact info" </li>
+</ol>
+
+
 
 
 
@@ -31,7 +47,7 @@
 <h2><strong>Chrome Extention</strong>:</h2>
      <br>
     
-![Extention](./assets/Linkedin%20Extention.png);
+![Extention](./assets/Linkedin%20Extention.png)
    <br>  
  
 <h2><strong> Quick Save Post</strong>:</h2>
