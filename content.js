@@ -50,7 +50,7 @@ speechRecognition.start();
 
 //onresult event
 speechRecognition.onresult = (event) => {
-  //transcript to store the result of speech
+  //transcript to store the result of speech 
   let transcript = event.results[event.resultIndex][0].transcript;
 
   console.log(event);

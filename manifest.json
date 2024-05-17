@@ -1,7 +1,7 @@
 {
-  "name" : "Linkedin voice assistant",
+  "name" : " Voice-Activated LinkedIn Navigator & Quick Save Access",
    "version": "1.0",
-   "description": "A chrome Extention working as a voice assistant for linkedin",
+   "description": "  LinkedIn browsing by introducing voice commands for navigation and a convenient one-click access button for saved posts. ",
    "manifest_version": 3,
     "icons" : {
         "16" : "assets/linkedin.png",
